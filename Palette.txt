@@ -13,11 +13,11 @@ $color4: rgba(206, 201, 197, 1);
 $color5: rgba(255, 255, 255, 1);
 
 /* HEX */
-$color1: #004e40ff;
-$color2: #f5d8c8ff;
-$color3: #8da899ff;
-$color4: #cec9c5ff;
-$color5: #ffffffff;
+$green: #004e40ff;
+$pink: #f5d8c8ff;
+$light-green: #c4e0c9;
+$gray: #cec9c5ff;
+$white: #ffffffff;
 
 /* GRADIENT */
 $gradient-top: linear-gradient(0deg, #004e40ff, #f5d8c8ff, #8da899ff, #cec9c5ff, #ffffffff);
