@@ -3,5 +3,6 @@
         "flexslider",
         "probootstrap",
         "uicookies"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
